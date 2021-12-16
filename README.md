@@ -10,6 +10,8 @@ Independent Web Developer from the United States.
 
 Building fast applications on [Cloudflare](https://cloudflare.com) [Workers](https://workers.cloudflare.com) and [Pages](https://pages.cloudflare.com).
 
+Managing the Cloudflare Community [Website](https://cloudflare.community) and [Github Organization](https://github.com/cloudflare-community).
+
 Slowly bodging my way through courses on [FreeCodeCamp](https://www.freecodecamp.org).
 
 Learning [Rust](https://rust-lang.com) from the book.
