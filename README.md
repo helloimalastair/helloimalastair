@@ -6,7 +6,7 @@
 
 Stats provided by [jstrieb/github-stats](https://github.com/jstrieb/github-stats), and hosted on the Edge with [Cloudflare](https://cloudflare.com) and [Backblaze](https://backblaze.com).
 
-Independent Web Developer from the United States.
+Independent Web Developer from Denmark.
 
 Building fast applications on [Cloudflare](https://cloudflare.com) [Workers](https://workers.cloudflare.com) and [Pages](https://pages.cloudflare.com).
 
